@@ -1,5 +1,5 @@
 <div>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="100" height="100"/>
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulong88888)](https://github.com/anuraghazra/github-readme-stats)
